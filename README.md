@@ -1,11 +1,15 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Luiz Pedro Scariot! 👋
 
-## 🤖 Data Scientist & MLOps Engineer
+* 🌍 Moro em: **Tapejara/RS**
+* 💼 Trabalho atual: **Sicredi**
+* ✉️ Contato: **luizpedro6@gmail.com**
+
+## 🤖 Data Scientist & ML Engineer
 Especialista em criar soluções escaláveis de Machine Learning e orquestração de pipelines de dados. Meu foco principal é a **Arquitetura Lakehouse** utilizando **Databricks**.
 
 * 🔭 Atualmente trabalhando em: **Pipelines de ETL e Deploy de Modelos em Batch/Real-time**
-* 💡 Interesses: **LLMs, Databricks Unity Catalog, Feature Stores e Governança de Dados**
-* 📚 Estudando: **Otimização de jobs Spark e Arquiteturas Event-Driven**
+* 💡 Interesses: **LLMs, Databricks, Data Science, Feature Stores, Monitoramento e Governança de Modelos**
+* 📚 Estudando: **Pós Tech em Machine Learning Engineering pela FIAP**
 
 ---
 
@@ -28,12 +32,13 @@ Especialista em criar soluções escaláveis de Machine Learning e orquestraçã
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ---
 
 ## 📊 Estatísticas
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide=html,css"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=odomluiz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odomluiz&layout=compact&theme=dark&hide=html,css"/>
 </div>
 
 ---
