@@ -47,12 +47,14 @@ Especialista em criar soluções escaláveis de Machine Learning e orquestraçã
 
 | Projeto | Stack | Descrição |
 | :--- | :--- | :--- |
-| **Pipeline de Churn Prediction** | `Databricks` `PySpark` `MLflow` | Pipeline completo desde a ingestão (Bronze) até o serving do modelo. |
-| **Monitoramento de Data Drift** | `Python` `EvidentlyAI` `Docker` | Sistema de alertas para degradação de performance de modelos. |
+
+| **Modelo de Análise de Crédito** | `Databricks` `PySpark` `MLflow` `XGBoost` `HyperOpt`| Pipeline completo desde a ingestão vinda de um virtualizador de dados + Arquivos semi estruturados finalizando em um Workflow com trigger via API REST. |
+| **Pipeline de Churn Prediction** | `Databricks` `PySpark` `MLflow` `Sklearn`| Pipeline completo desde a ingestão vinda de um virtualizador de dados (Bronze) até o serving do modelo. |
+| **Monitoramento de Modelos** | `Python` `SQL` `Lakehouse Monitoring` | Sistema de alertas para degradação de performance de modelos. |
 | **RAG com Vector Search** | `LangChain` `Databricks` | Chatbot utilizando documentos internos da empresa. |
+| **Salas Genie para Conversação com Dados** | `Genie` `Databricks` `AI/BI Dashboards` `Streamlit` | Chatbot utilizando dados estruturados com geração de consultas SQL com IA Generativa. |
 
 ---
 
 ## 🔗 Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@SEU_MEDIUM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-pedro-scariot-531a68197)
