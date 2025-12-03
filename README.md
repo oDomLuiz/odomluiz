@@ -33,13 +33,6 @@ Especialista em criar soluções escaláveis de Machine Learning e orquestraçã
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
----
-
-## 📊 Estatísticas
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=odomluiz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odomluiz&layout=compact&theme=dark&hide=html,css"/>
-</div>
 
 ---
 
@@ -47,7 +40,6 @@ Especialista em criar soluções escaláveis de Machine Learning e orquestraçã
 
 | Projeto | Stack | Descrição |
 | :--- | :--- | :--- |
-
 | **Modelo de Análise de Crédito** | `Databricks` `PySpark` `MLflow` `XGBoost` `HyperOpt`| Pipeline completo desde a ingestão vinda de um virtualizador de dados + Arquivos semi estruturados finalizando em um Workflow com trigger via API REST. |
 | **Pipeline de Churn Prediction** | `Databricks` `PySpark` `MLflow` `Sklearn`| Pipeline completo desde a ingestão vinda de um virtualizador de dados (Bronze) até o serving do modelo. |
 | **Monitoramento de Modelos** | `Python` `SQL` `Lakehouse Monitoring` | Sistema de alertas para degradação de performance de modelos. |
